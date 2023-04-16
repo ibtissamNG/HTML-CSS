@@ -1,7 +1,7 @@
 
 # HTML - CSS
 
-I practiced using Html and CSS by creating the Kasper and Leon templates from scratch.
+I enjoyed working on the Kasper and Leon templates which are responsive on different screen sizes.
 
-This really helped me to learn new stuff and also to use the good practices while coding.
+This really helped me to practice HTML&CSS and also to use the good practices while coding.
 
